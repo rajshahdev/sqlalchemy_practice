@@ -1,3 +1,3 @@
 from main import base, engine
-from models import User
+from models import User, Posts
 base.metadata.create_all(engine)
