@@ -30,7 +30,7 @@ class Posts(base):
 
 
 # class Parent(base):
-#     __tablename__ = 'parent'
+#     __tablename__ = "parent"
 #     id = Column(Integer, primary_key=True)
 #     children = relationship("Child")
 #
